@@ -1,0 +1,14 @@
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\bin\Debug\net6.0\IterationStatements.exe
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\bin\Debug\net6.0\IterationStatements.deps.json
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\bin\Debug\net6.0\IterationStatements.runtimeconfig.json
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\bin\Debug\net6.0\IterationStatements.dll
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\bin\Debug\net6.0\IterationStatements.pdb
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfo.cs
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.dll
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\refint\IterationStatements.dll
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.pdb
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.genruntimeconfig.cache
+C:\Users\isaia\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\ref\IterationStatements.dll
